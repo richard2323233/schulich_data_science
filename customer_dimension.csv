@@ -1,0 +1,6 @@
+sk_customer,customer_id,first_name,last_name,email,date_of_birth
+1064,111,Marge,Simpson,marge.simpson@springfield.com,1956-03-19
+2027,222,Homer,Simpson,homer.simpson@springfield.com,1956-05-12
+3666,333,Bart,Simpson,bart.simpson@springfield.com,1980-02-23
+4242,444,Lisa,Simpson,lisa.simpson@springfield.com,1982-05-09
+5432,555,Maggie,Simpson,maggie.simpson@springfield.com,1989-01-14

@@ -1,0 +1,9 @@
+conversion_id,conversion_date,fk_conversion_date,fk_customer,fk_product,conversion_type,conversion_channel,order_number,discount_value
+1111,2019-01-03,20190103,1064,9138,activation,Email,558863286,129.99
+1984,2020-03-26,20200326,1064,24468,reactivation,Organic Reactivation,509646546,0.00
+2999,2020-01-02,20200102,2027,24664,activation,Social Media,511862806,20.00
+3422,2021-02-19,20210219,3666,35138,activation,Affiliate,504230754,120.00
+3693,2022-01-15,20220115,3666,35134,reactivation,Direct Mail CRM,551972720,61.98
+3699,2023-02-27,20230227,3666,35134,reactivation,SMS,651972666,50.00
+4545,2021-07-15,20210715,4242,35138,activation,Direct Mail CRM,507050380,190.75
+9876,2023-07-10,20230710,9999,9138,activation,Social Media,696785432,200.00
